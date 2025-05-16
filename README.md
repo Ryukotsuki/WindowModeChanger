@@ -34,7 +34,7 @@
 
 | Main Interface |  
 |----------------|  
-| ![Main Interface](https://github.com/user-attachments/assets/6cede56b-121f-431c-b41a-7c684f977f6e) |
+| ![Main Interface](https://github.com/user-attachments/assets/d6faa034-a9e1-453e-8892-f8d10a22effe) |
 
 ---
 
